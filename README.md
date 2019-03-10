@@ -1,0 +1,1 @@
+# [WordPress](https://wordpress.org/) + [PHP dotenv](https://github.com/vlucas/phpdotenv)
